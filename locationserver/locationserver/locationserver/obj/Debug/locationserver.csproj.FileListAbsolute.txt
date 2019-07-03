@@ -1,0 +1,25 @@
+C:\Users\528121\Documents\locationserver\locationserver\locationserver\bin\Debug\locationserver.exe.config
+C:\Users\528121\Documents\locationserver\locationserver\locationserver\bin\Debug\locationserver.exe
+C:\Users\528121\Documents\locationserver\locationserver\locationserver\bin\Debug\locationserver.pdb
+C:\Users\528121\Documents\locationserver\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+C:\Users\528121\Documents\locationserver\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+C:\Users\528121\Documents\locationserver\locationserver\locationserver\obj\Debug\locationserver.exe
+C:\Users\528121\Documents\locationserver\locationserver\locationserver\obj\Debug\locationserver.pdb
+G:\General SVN\08140\locationserver\locationserver\locationserver\bin\Debug\locationserver.exe.config
+G:\General SVN\08140\locationserver\locationserver\locationserver\bin\Debug\locationserver.exe
+G:\General SVN\08140\locationserver\locationserver\locationserver\bin\Debug\locationserver.pdb
+G:\General SVN\08140\locationserver\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+G:\General SVN\08140\locationserver\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+G:\General SVN\08140\locationserver\locationserver\locationserver\obj\Debug\locationserver.exe
+G:\General SVN\08140\locationserver\locationserver\locationserver\obj\Debug\locationserver.pdb
+C:\Users\528121\Documents\locationserver\locationserver\locationserver\obj\Debug\locationserver.locationServerUI.resources
+C:\Users\528121\Documents\locationserver\locationserver\locationserver\obj\Debug\locationserver.csproj.GenerateResource.Cache
+C:\Users\jake\Desktop\Whaterver\08140\locationserver\locationserver\locationserver\bin\Debug\locationserver.exe.config
+C:\Users\jake\Desktop\Whaterver\08140\locationserver\locationserver\locationserver\bin\Debug\locationserver.exe
+C:\Users\jake\Desktop\Whaterver\08140\locationserver\locationserver\locationserver\bin\Debug\locationserver.pdb
+C:\Users\jake\Desktop\Whaterver\08140\locationserver\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+C:\Users\jake\Desktop\Whaterver\08140\locationserver\locationserver\locationserver\obj\Debug\locationserver.locationServerUI.resources
+C:\Users\jake\Desktop\Whaterver\08140\locationserver\locationserver\locationserver\obj\Debug\locationserver.csproj.GenerateResource.cache
+C:\Users\jake\Desktop\Whaterver\08140\locationserver\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+C:\Users\jake\Desktop\Whaterver\08140\locationserver\locationserver\locationserver\obj\Debug\locationserver.exe
+C:\Users\jake\Desktop\Whaterver\08140\locationserver\locationserver\locationserver\obj\Debug\locationserver.pdb
